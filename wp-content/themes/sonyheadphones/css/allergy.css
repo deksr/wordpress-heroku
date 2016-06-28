@@ -1,0 +1,60 @@
+html, 
+body{
+	margin:0;
+	color: #333;
+	background-color: #eee;
+	font: sans-serif;
+}
+
+body{
+	padding: 20px;
+}
+
+.bla-bla-bla{
+  background-color: #E1EDFD;
+  height: 60%;
+  width: 100%;
+  margin-top: 5%;
+}
+
+.empty-space{
+	padding-top: 3%;
+	width: 60%;
+	height: 60%;
+}
+
+
+.company-description{
+  columns: 100px 3;
+  text-align: justify;
+  column-width: 10px;
+  column-gap: 40px;
+}
+
+.map-stuff{
+	position: relative;
+	background-color: #E1EDFD;
+	height: 70%;
+	width: 100%;
+	padding: 30px;
+}
+
+.the-map {
+	position: absolute;
+	left: 80%;	 
+}
+
+.map-address{
+	position: absolute;
+	left: 70%;
+	bottom: 70%;
+	font-size: 18px;
+}
+
+/*blog page related*/
+
+.allpost-goes-here{
+padding-top: 3%;
+	width: 60%;
+	height: 60%;
+}
